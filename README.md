@@ -13,7 +13,7 @@ Open `main.ipynb` and follow the steps.
 
 ## Deliverables
 
-- Downloaded notebook with your responses to each of the exercises.
+- Notebook with your responses to each of the exercises.
 
 ## Submission
 
